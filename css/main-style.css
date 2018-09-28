@@ -13,10 +13,6 @@ body {
 	overflow: auto;
 }
 
-header {
-
-}
-
 header > div {
 	padding: 16px 18px 19px;
 	position: relative;
@@ -320,8 +316,6 @@ main .three-modules-block > .module-block {
 
 
 
-
-
 .question-link {
 	cursor: pointer;
 	text-decoration: none;
@@ -341,9 +335,6 @@ main .three-modules-block > .module-block {
 	right: 10px;
 	top: 15px;
 }
-
-
-
 
 
 .yellow-button {
